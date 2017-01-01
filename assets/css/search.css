@@ -1,0 +1,28 @@
+/*
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+*/
+/* 
+    Created on : Nov 27, 2016, 10:06:04 PM
+    Author     : josh
+*/
+.getrets-searchwidget .getrets-searchwidget-advanced {
+  width: auto;
+  margin: auto;
+  cursor: pointer;
+  display: inline-block;
+}
+.getrets-searchwidget .submit-search {
+  display: none;
+}
+.getrets-searchwidget .advanced-field {
+  display: none;
+}
+.getrets-searchwidget.advanced-search .submit-search {
+  display: block;
+}
+.getrets-searchwidget.advanced-search .advanced-field {
+  display: block !important;
+}
+/*# sourceMappingURL=search.css.map */

@@ -1,0 +1,72 @@
+.getrets-excerpt .getrets-thumbnail-container {
+  float: left;
+  margin-right: 20px;
+}
+.getrets-excerpt .getrets-thumbnail-container .getrets-thumbnail {
+  width: 100%;
+  margin-bottom: -7px;
+}
+@media only screen and (max-width: 500px) {
+  .getrets-excerpt .getrets-thumbnail-container {
+    float: none;
+    margin-right: none;
+  }
+}
+.getrets-title {
+  font-size: 20px;
+  font-weight: 900;
+  text-decoration: underline;
+}
+.getrets-label {
+  font-weight: 900;
+}
+.getrets-value {
+  font-style: italic;
+}
+.getrets-providedby {
+  font-size: 11px;
+}
+.getrets-features ul {
+  column-count: 2;
+  -moz-column-count: 2;
+  -webkit-column-count: 2;
+}
+.getrets-features ul li {
+  list-style-type: none;
+}
+.getrets-photo {
+  border: 2px solid white;
+  cursor: pointer;
+}
+.getrets-photo:hover {
+  border: 2px solid black;
+}
+.getrets-photo-container img {
+  width: 100%;
+  height: auto;
+}
+.getrets-photos * {
+  box-sizing: border-box;
+}
+.getrets-photo-responsive {
+  padding: 0 6px;
+  float: left;
+  width: 24.99999%;
+}
+@media only screen and (max-width: 700px) {
+  .getrets-photo-responsive {
+    width: 49.99999%;
+    margin: 6px 0;
+  }
+}
+@media only screen and (max-width: 500px) {
+  .getrets-photo-responsive {
+    width: 100%;
+  }
+}
+.clearfix:after {
+  content: "";
+  display: table;
+  clear: both;
+}
+/*# sourceMappingURL=post.css.map */
