@@ -8,6 +8,8 @@
 
 *Version:* **1.0.0**
 
+*Demo:* <http://wordpress.timitek.com> 
+
 ***
 
 ##Table of Contents
