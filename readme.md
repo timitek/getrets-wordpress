@@ -240,3 +240,8 @@ Creative Commons Attribution-NoDerivatives 4.0
 * Advanced search shortcode
 * Advanced search widget
 * Listing detail post rendered with CSS classes and JavaScript hooks
+
+### Version 1.0.1
+
+* Added support for cUrl as backup for use in working with API when allow_url_fopen is not enabled
+
