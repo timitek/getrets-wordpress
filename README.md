@@ -59,6 +59,7 @@ GetRETS is an API that provides integration with RETS based MLS's through a RETS
 Please ensure you meet the following requirements:
 
 - PHP 5.4.45+
+- Either cUrl enabled or allow_url_fopen enabled in php.ini
 - WordPress 4.6.1 or later
 - An active subscription and customer key for **GetRETS** from **timitek** (<http://www.timitek.com>)
 
