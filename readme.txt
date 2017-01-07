@@ -4,7 +4,7 @@ Donate link:
 Tags: RETS, Realty, Real Estate, IDX, MLS, Real Estate Listings, RETS Feed, MLS Search, IDX Search, Listings
 Requires at least: 4.6.1
 Tested up to: 4.7
-Stable tag: 1.0.0
+Stable tag: 1.0.2
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
@@ -212,8 +212,24 @@ For further information examine the markup at;
 * Advanced search widget
 * Listing detail post rendered with CSS classes and JavaScript hooks
 
+= 1.0.1 =
+
+Added support for cUrl as backup for use in working with API when allow_url_fopen is not enabled
+
+= 1.0.2 =
+
+Removed duplicate ID's from search result excerpt
+
 == Upgrade Notice ==
 
 = 1.0.0 =
 
 Initial Release
+
+= 1.0.1 =
+
+Added support for cUrl as backup for use in working with API when allow_url_fopen is not enabled
+
+= 1.0.2 =
+
+Removed duplicate ID's from search result excerpt

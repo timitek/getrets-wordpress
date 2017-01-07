@@ -6,7 +6,7 @@
 
 *Contact:* **<support@timitek.com>**
 
-*Version:* **1.0.0**
+*Version:* **1.0.2**
 
 *Demo:* <http://wordpress.timitek.com> 
 
@@ -245,3 +245,6 @@ Creative Commons Attribution-NoDerivatives 4.0
 
 * Added support for cUrl as backup for use in working with API when allow_url_fopen is not enabled
 
+### Version 1.0.2
+
+* Removed duplicate ID's from search result excerpt
