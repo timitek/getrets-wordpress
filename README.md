@@ -6,7 +6,7 @@
 
 *Contact:* **<support@timitek.com>**
 
-*Version:* **1.0.2**
+*Version:* **1.0.3**
 
 *Demo:* <http://wordpress.timitek.com> 
 
@@ -36,23 +36,23 @@ GetRETS is an API that provides integration with RETS based MLS's through a RETS
 
 > *Settings - GetRETS*
 
-![Settings - GetRETS](assets/screenshot-1.png "Settings - GetRETS")
+![Settings - GetRETS](../screenshot-1.png "Settings - GetRETS")
 
 > *Create your own search page using the [getrets-search] shortcode*
 
-![Create your own search page using the [getrets-search] shortcode](assets/screenshot-2.png "Create your own search page using the [getrets-search] shortcode")
+![Create your own search page using the [getrets-search] shortcode](../screenshot-2.png "Create your own search page using the [getrets-search] shortcode")
 
 > *Take advantage of the advanced listing search search widget*
 
-![Take advantage of the advanced listing search search widget](assets/screenshot-3.png "Take advantage of the advanced listing search search widget")
+![Take advantage of the advanced listing search search widget](../screenshot-3.png "Take advantage of the advanced listing search search widget")
 
 > *View listing searches natively in your site like any other post*
 
-![View listing searches natively in your site like any other post](assets/screenshot-4.png "View listing searches natively in your site like any other post")
+![View listing searches natively in your site like any other post](../screenshot-4.png "View listing searches natively in your site like any other post")
 
 > *View a detailed post for listings with detailed information and photos*
 
-![View a detailed post for listings with detailed information and photos](assets/screenshot-5.png "View a detailed post for listings with detailed information and photos")
+![View a detailed post for listings with detailed information and photos](../screenshot-5.png "View a detailed post for listings with detailed information and photos")
 
 ##3. Requirements
 
