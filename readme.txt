@@ -4,7 +4,7 @@ Donate link:
 Tags: RETS, Realty, Real Estate, IDX, MLS, Real Estate Listings, RETS Feed, MLS Search, IDX Search, Listings
 Requires at least: 4.6.1
 Tested up to: 4.7
-Stable tag: 1.0.2
+Stable tag: 1.0.3
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
@@ -220,6 +220,10 @@ Added support for cUrl as backup for use in working with API when allow_url_fope
 
 Removed duplicate ID's from search result excerpt
 
+= 1.0.3 =
+
+Fix for php versions before 5.5 (no empty checks) - Line 118 of GetRETS.php.
+
 == Upgrade Notice ==
 
 = 1.0.0 =
@@ -233,3 +237,7 @@ Added support for cUrl as backup for use in working with API when allow_url_fope
 = 1.0.2 =
 
 Removed duplicate ID's from search result excerpt
+
+= 1.0.3 =
+
+Fix for php versions before 5.5 (no empty checks) - Line 118 of GetRETS.php.

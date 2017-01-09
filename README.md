@@ -248,3 +248,7 @@ Creative Commons Attribution-NoDerivatives 4.0
 ### Version 1.0.2
 
 * Removed duplicate ID's from search result excerpt
+
+### Version 1.0.3
+
+* Fix for php versions before 5.5 (no empty checks) - Line 118 of GetRETS.php.
