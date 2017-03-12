@@ -4,7 +4,7 @@ Donate link:
 Tags: RETS, Realty, Real Estate, IDX, MLS, Real Estate Listings, RETS Feed, MLS Search, IDX Search, Listings
 Requires at least: 4.6.1
 Tested up to: 4.7
-Stable tag: 1.0.3
+Stable tag: 1.0.4
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
@@ -241,3 +241,7 @@ Removed duplicate ID's from search result excerpt
 = 1.0.3 =
 
 Fix for php versions before 5.5 (no empty checks) - Line 118 of GetRETS.php.
+
+= 1.0.4 =
+
+Replace boolval with other methods in order to support older versions of PHP

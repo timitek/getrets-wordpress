@@ -4,7 +4,7 @@
   Plugin Name: GetRETS
   Plugin URI: www.timitek.com
   Description: Instantly add real estate listing data to your website.  Allows listings, from multiple feeds, to appear within your site as native content.
-  Version: 1.0.3
+  Version: 1.0.4
   Author: www.timitek.com
   Author URI: http://www.timitek.com
   License: GPLv2

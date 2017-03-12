@@ -6,7 +6,7 @@
 
 *Contact:* **<support@timitek.com>**
 
-*Version:* **1.0.3**
+*Version:* **1.0.4**
 
 *Demo:* <http://wordpress.timitek.com> 
 
@@ -252,3 +252,7 @@ Creative Commons Attribution-NoDerivatives 4.0
 ### Version 1.0.3
 
 * Fix for php versions before 5.5 (no empty checks) - Line 118 of GetRETS.php.
+
+### Version 1.0.4
+
+* Replace boolval with other methods in order to support older versions of PHP
